@@ -51,7 +51,3 @@ The program operates directly on the save file, ensuring no memory injection or 
    ```bash
    python -m nuitka gui.py --output-filename=Re5aveHazard --standalone --onefile --windows-console-mode=disable --windows-icon-from-ico=icon.ico --enable-plugin=tk-inter --include-data-files=forest-dark.tcl=forest-dark.tcl --include-data-files=icon.ico=icon.ico --include-data-dir=forest-dark=forest-dark
    ```
-
----
-
-This version improves readability, fixes minor grammatical issues, and ensures consistency in formatting. Let me know if you’d like further adjustments!
