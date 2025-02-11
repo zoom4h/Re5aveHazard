@@ -15,10 +15,9 @@ This Python program allows for the modification of *Resident Evil 5 v1.2.0* (Ste
 
 The program operates directly on the save file, ensuring no memory injection or game file corruption occurs.
 
+---
 
 ## How to Run
-
----
 
 ### Prebuilt Windows `.exe`
 1. Download the [latest release](https://github.com/zoom4h/Re5aveHazard/releases/latest).
