@@ -1,7 +1,3 @@
-Here’s a revised version of your GitHub description with improved grammar, clarity, and formatting. I’ve kept the tone professional and informative while ensuring consistency and readability:
-
----
-
 # Re5aveHazard
 
 ![image](https://github.com/zoom4h/Re5aveHazard/blob/screenshots/scr1.png?raw=true)
